@@ -1,3 +1,9 @@
+GIT
+  remote: https://github.com/manishmsn/copyright_footer_generator
+  revision: cffaedd50c9e544366c39fb153a6f0da792aac8f
+  specs:
+    copyright_footer_generator (0.1.0)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -185,6 +191,7 @@ DEPENDENCIES
   bootstrap (~> 4.0.0.beta)
   byebug
   coffee-rails (~> 4.2)
+  copyright_footer_generator!
   devise (~> 4.3)
   friendly_id (~> 5.1.0)
   jbuilder (~> 2.5)
