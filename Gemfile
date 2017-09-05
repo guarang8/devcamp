@@ -55,3 +55,4 @@ gem 'jquery-rails'
 gem 'bootstrap', '~> 4.0.0.beta'
 
 gem 'copyright_footer_generator', git: 'https://github.com/manishmsn/copyright_footer_generator'
+gem 'petergate', '~> 1.7', '>= 1.7.5'
